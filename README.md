@@ -7,3 +7,4 @@ Software engineering 2014 project template
 * It contains 7 markdown files, one for each chapter of the documentation
 * Nguyen Thai Binh 1403735
 I make some changes
+Winne the Pooh
