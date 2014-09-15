@@ -8,4 +8,6 @@ Software engineering 2014 project template
 * Nguyen Thai Binh 1403735
 I make some changes
 
+Winne the Pooh
+
 Mr. Hello made some changes.
