@@ -16,7 +16,7 @@ List here the following details:
 =======
   * Mr. Say - Mr. Hello
   * YAY :)
->>>>>>> acfd8c2d72528c57ccee05a4dc9c43dcfa0e155f
+hello
 * Date: 2.2.2022
 
 *Hello, Web!
