@@ -17,13 +17,8 @@ I make some changes
 Winne the Pooh
 
 Mr. Hello made some changes.
-<<<<<<< HEAD
-hello 
-=======
 
-<<<<<<< HEAD
 Hello demo 
->>>>>>> 49049617ecd015dd78845cf882dae1df80bbff84
 =======
 Hello demo With some changes
 
@@ -32,4 +27,4 @@ To test conflict.
 checking conflict
 ## Hello again 
 =======
->>>>>>> acfd8c2d72528c57ccee05a4dc9c43dcfa0e155f
+
