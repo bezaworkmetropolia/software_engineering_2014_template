@@ -10,7 +10,14 @@ List here the following details:
   * xia wu hao
   * wan shang hao
   * wan an
+<<<<<<< HEAD
   * Mr. Say - Mr. Hello...Hello
-  i dont know what to write
+  write
+=======
+  * Mr. Say - Mr. Hello
+  * YAY :)
+>>>>>>> acfd8c2d72528c57ccee05a4dc9c43dcfa0e155f
 * Date: 2.2.2022
+
+*Hello, Web!
 

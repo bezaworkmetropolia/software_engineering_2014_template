@@ -3,6 +3,10 @@
 software_engineering_2014_template
 ==================================
 
+##HELLO :)
+
+###Welcome
+
 Software engineering 2014 project template
 
 * This repository provides the skeleton of the software engineering project work
@@ -14,8 +18,17 @@ Winne the Pooh
 
 Mr. Hello made some changes.
 <<<<<<< HEAD
-hello there some changes i made
+hello 
 =======
 
+<<<<<<< HEAD
 Hello demo 
 >>>>>>> 49049617ecd015dd78845cf882dae1df80bbff84
+=======
+Hello demo With some changes
+
+To test conflict.
+
+## Hello again 
+=======
+>>>>>>> acfd8c2d72528c57ccee05a4dc9c43dcfa0e155f
