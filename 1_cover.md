@@ -10,6 +10,7 @@ List here the following details:
   * xia wu hao
   * wan shang hao
   * wan an
-  * Mr. Say - Mr. Hello
+  * Mr. Say - Mr. Hello...Hello
+  i dont know what to write
 * Date: 2.2.2022
 
