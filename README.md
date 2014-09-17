@@ -1,5 +1,11 @@
+##demo## 
+
 software_engineering_2014_template
 ==================================
+
+##HELLO :)
+
+###Welcome
 
 Software engineering 2014 project template
 
@@ -11,3 +17,10 @@ I make some changes
 Winne the Pooh
 
 Mr. Hello made some changes.
+
+Hello demo With some changes
+
+To test conflict.
+
+## Hello again 
+=======
