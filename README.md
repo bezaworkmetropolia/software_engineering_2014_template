@@ -1,3 +1,5 @@
+##demo## 
+
 software_engineering_2014_template
 ==================================
 
@@ -11,4 +13,9 @@ I make some changes
 Winne the Pooh
 
 Mr. Hello made some changes.
-I did too. and i dont know what to write
+<<<<<<< HEAD
+hello there some changes i made
+=======
+
+Hello demo 
+>>>>>>> 49049617ecd015dd78845cf882dae1df80bbff84
