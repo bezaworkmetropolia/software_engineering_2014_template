@@ -29,6 +29,7 @@ Hello demo With some changes
 
 To test conflict.
 ##my changes
+checking conflict
 ## Hello again 
 =======
 >>>>>>> acfd8c2d72528c57ccee05a4dc9c43dcfa0e155f
